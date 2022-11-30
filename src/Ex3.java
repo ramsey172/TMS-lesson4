@@ -1,5 +1,3 @@
-package Group1;
-
 public class Ex3 {
     public static void main(String[] args) {
         int[] array1 = new int[]{2, 5, 7, 8, 8};
